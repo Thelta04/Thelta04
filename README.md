@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thelta04
+- 👋 Hi, I’m Luís Lima
 - 👀 I’m interested in music, videogames and coding
 - 🌱 I’m currently learning Information Tecnologies on FCUL (Portugal)
 <!---
